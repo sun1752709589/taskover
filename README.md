@@ -4,9 +4,8 @@
 
 这个是学习`VueJs`时的一个 Demo 项目，后来发现管理个人任务挺好用，本着强迫症患者该有的精神，就美化了下界面，设计了个 Logo，然后放出来了，项目很简单，适合`Rails`以及`Vue`初学者学习使用。
 
-> 源码下载 https://gitee.com/kesin/taskover
 >
-> 在线演示 http://115.28.75.212/ 账号 demo / 111111
+> 在线演示 https://task.51read.site/ 账号 demo / 111111
 
 #### 功能
 
